@@ -1,2 +1,2 @@
-# swisstronik-deploy-proxy
+# Swisstronik-Deploy-Proxy
 Deploying Swisstronik Proxy using Hardhat
